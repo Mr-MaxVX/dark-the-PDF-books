@@ -1,7 +1,7 @@
 
-// many of us reading some books online and we want them in dark background so here is a code I found that will help u to have a beautiful reading (;
+// Most of us are reading books online and we find them a bit difficult due to the white back-ground. If you searching for a way to make them DARK here is a code that I found. It will help you to have a beautiful reading (;
 
-// open the pdf book then (dev-tool) in your web page then go to (console) then paste this code enter and it's done
+// open the pdf book then > (dev-tool) in your web page then > go to (console) then paste this code > enter and it's done.
 
 var cover = document.createElement("div"); 
 let css = ` 
