@@ -18,6 +18,7 @@ The script creates a full-screen overlay that makes the white background darker 
 - `dark-pdf.css` - The CSS styling used by the overlay.
 
 ## Example
+<img width="2168" height="1141" alt="image" src="https://github.com/user-attachments/assets/5ae096ce-5ecf-4d7b-992e-5fdc2a270b64" />
 
 ```javascript
 const overlay = document.createElement("div");
