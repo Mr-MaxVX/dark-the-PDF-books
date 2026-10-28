@@ -1,19 +1,10 @@
+# OS files
+.DS_Store
+Thumbs.db
 
-// Most of us are reading books online and we find them a bit difficult due to the white back-ground. If you searching for a way to make them DARK here is a code that I found. It will help you to have a beautiful reading (;
+# Editor files
+.vscode/
+.idea/
 
-// open the pdf book then > (dev-tool) in your web page then > go to (console) then paste this code > enter and it's done.
-
-var cover = document.createElement("div"); 
-let css = ` 
-    position: fixed; 
-    pointer-events: none; 
-    top: 0; 
-    left: 0; 
-    width: 100vw; 
-    height: 100vh; 
-    background-color: white; 
-    mix-blend-mode: difference; 
-    z-index: 1; 
-` 
-cover.setAttribute("style", css); 
-document.body.appendChild(cover);
+# Logs
+*.log
